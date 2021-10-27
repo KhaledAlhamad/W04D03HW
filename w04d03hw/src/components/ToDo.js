@@ -45,7 +45,7 @@ class ToDo extends React.Component{
                         value={this.state.text}
                     />
                     <button>
-                        Add #{this.state.items.length + 1}
+                        Add 
                     </button>
                     </form>
             </div>
